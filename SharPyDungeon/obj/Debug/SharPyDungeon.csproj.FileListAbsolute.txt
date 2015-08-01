@@ -1,0 +1,6 @@
+c:\users\ryan\documents\visual studio 2015\Projects\SharPyDungeon\SharPyDungeon\bin\Debug\SharPyDungeon.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\SharPyDungeon\SharPyDungeon\bin\Debug\SharPyDungeon.exe
+c:\users\ryan\documents\visual studio 2015\Projects\SharPyDungeon\SharPyDungeon\bin\Debug\SharPyDungeon.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\SharPyDungeon\SharPyDungeon\obj\Debug\SharPyDungeon.exe
+c:\users\ryan\documents\visual studio 2015\Projects\SharPyDungeon\SharPyDungeon\obj\Debug\SharPyDungeon.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\SharPyDungeon\SharPyDungeon\obj\Debug\SharPyDungeon.csprojResolveAssemblyReference.cache
